@@ -1,4 +1,4 @@
-// Write a Car class in Javascript that has the following properties:
+// Write a Car class in Javascript that takes the following properties as parameters and sets them in a constructor:
 // 1. Make
 // 2. Model
 // 3. Year
